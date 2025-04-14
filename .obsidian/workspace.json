@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "b3c041455aeb24e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fa889df476a18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cac7209ae25559a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.13"
+            }
+          },
+          {
+            "id": "c23795c72859ff73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.14"
+            }
+          },
+          {
+            "id": "afc0f69a98c75316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.22"
+            }
+          },
+          {
+            "id": "fc5292fea9793a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.23"
+            }
+          },
+          {
+            "id": "db5b83353efa2d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.24"
+            }
+          },
+          {
+            "id": "3290c94e65052991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.27"
+            }
+          },
+          {
+            "id": "23ae4fc37117213c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.28"
+            }
+          },
+          {
+            "id": "093cff1148339586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.29"
+            }
+          },
+          {
+            "id": "274d333df8f3489a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1.30"
+            }
+          },
+          {
+            "id": "a190343719efeb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 1"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd4ed263fb0f2e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38d9a6b6fe4b5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ad1c5eff13b031b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33e59ce5d1d7bab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d910fdebe1c09b7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2992fc634a60471",
+    "type": "split",
+    "children": [
+      {
+        "id": "84ae8190a3e2add8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd867c1edd6f219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "06a498320ec30f33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "237eb1fccc0196a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47a5636d529701b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a190343719efeb37",
+  "lastOpenFiles": [
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.31.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.30.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.29.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.28.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.27.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.26.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.25.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.24.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.23.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.22.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.21.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.20.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.19.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.18.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.17.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.16.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.15.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.14.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.13.md",
+    "Untitled.md",
+    "Bible/01 - Genesis/Genesis 1/Untitled",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.12.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.11.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.10.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.9.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.8.md",
+    "Bible/01 - Genesis/Genesis 1/Genesis 1.7.md",
+    "Untitled",
+    "Structure Thoughts",
+    "Bible/Untitled",
+    "Bible/Genesis",
+    "Bible"
+  ]
+}

@@ -1,0 +1,21 @@
+- Bible
+	- Book
+		- Chapter
+			- Book Name (As Index)
+			- Book Name Chapter.Verse
+- Canonical Definitions
+	- Old Testament
+		- The Law
+		- History
+		- Wisdom Literature
+		- Major Prophets
+		- Minor Prophets
+	- New Testament
+		- The Gospels
+		- History
+		- Pauline Epistles
+		- General Epistles
+		- Apocalyptic
+- Future Development
+	- Add Topographical Bible
+	- Lexicon
