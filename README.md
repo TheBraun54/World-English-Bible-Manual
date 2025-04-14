@@ -6,8 +6,8 @@ Each book is formatted with readable headers, consistent structure, and clean sy
 
 ## Starting Goal
 - Convert WEB Bible to markdown text
-  - Chapter.Verse notes (Each verse has separate page)
-  - Chatper notes (Whole chapter for one page)
+  - Chapter Verse notes (Each verse has separate page)
+  - Chapter notes (Whole chapter for one page)
 - Canonical Definitions
 - Add different ways to read the bible
 
