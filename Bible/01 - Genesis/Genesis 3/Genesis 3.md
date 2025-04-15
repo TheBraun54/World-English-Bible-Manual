@@ -28,7 +28,7 @@
 
 ![[Genesis 3.14]]
 
-![[Genesis 3.15]]
+![[Bible/01 - Genesis/Genesis 3/Genesis 3.15]]
 
 ![[Genesis 3.16]]
 
