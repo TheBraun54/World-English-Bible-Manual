@@ -1,0 +1,1 @@
+But Noah found favor in Yahweh’s eyes.

@@ -4,697 +4,515 @@
     "type": "split",
     "children": [
       {
-        "id": "4a46d591b38b53be",
+        "id": "84b167fd55b2a7e0",
         "type": "tabs",
         "children": [
           {
-            "id": "bc42a17da4137c4d",
+            "id": "fc69a6fd45b7cc3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2"
+              "title": "Genesis 26"
             }
           },
           {
-            "id": "e337e1146b58d3a9",
+            "id": "f60e7c1bfc6065d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.1.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.1"
+              "title": "Genesis 26.1"
             }
           },
           {
-            "id": "91ba4a2a648e734d",
+            "id": "df4c77e9d81d5f60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.2.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.2"
+              "title": "Genesis 26.2"
             }
           },
           {
-            "id": "b90997421553ff91",
+            "id": "904637791d8aa4a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.3.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.3"
+              "title": "Genesis 26.3"
             }
           },
           {
-            "id": "0a3966bec3361ce2",
+            "id": "643ebb516c27e588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.4.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.4"
+              "title": "Genesis 26.4"
             }
           },
           {
-            "id": "5189d30b39e6049b",
+            "id": "d19ac320966ea32a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.5.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.5"
+              "title": "Genesis 26.5"
             }
           },
           {
-            "id": "9b0fcf90ffb8d6a3",
+            "id": "a9b68b43c9a0d353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.6.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.6"
+              "title": "Genesis 26.6"
             }
           },
           {
-            "id": "12ea2952b4c488d2",
+            "id": "3add622977fcafa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.7.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.7"
+              "title": "Genesis 26.7"
             }
           },
           {
-            "id": "c80716cdb2a705fa",
+            "id": "efe6f4a9400843b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.8.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.8"
+              "title": "Genesis 26.8"
             }
           },
           {
-            "id": "26d960f603055d10",
+            "id": "ee131ef7bc10ef65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.9.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.9"
+              "title": "Genesis 26.9"
             }
           },
           {
-            "id": "a2d81bee585a6570",
+            "id": "559aeb287c642997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.10.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.10"
+              "title": "Genesis 26.10"
             }
           },
           {
-            "id": "f19f4833d4c5b6fd",
+            "id": "08008d2561772149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.11.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.11"
+              "title": "Genesis 26.11"
             }
           },
           {
-            "id": "d47740a37ffd292e",
+            "id": "43e475d444ff8545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.12.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.12"
+              "title": "Genesis 26.12"
             }
           },
           {
-            "id": "237615ed3db78fd7",
+            "id": "5f48a0ab7dd1b79e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.13.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.13"
+              "title": "Genesis 26.13"
             }
           },
           {
-            "id": "a64aaf15bd80946e",
+            "id": "08420a43f869de2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.14.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.14"
+              "title": "Genesis 26.14"
             }
           },
           {
-            "id": "f335d0f6984e6d31",
+            "id": "59e4133f04544277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.15.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.15"
+              "title": "Genesis 26.15"
             }
           },
           {
-            "id": "aafc8a6272cfe898",
+            "id": "685f3f55f3ed096b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.16.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.16"
+              "title": "Genesis 26.16"
             }
           },
           {
-            "id": "ce3e0354f956acfe",
+            "id": "f290bb201dc53fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.17.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.17"
+              "title": "Genesis 26.17"
             }
           },
           {
-            "id": "c4db10447a774331",
+            "id": "b902b8bb9830227b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.18.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.18"
+              "title": "Genesis 26.18"
             }
           },
           {
-            "id": "f7cbac44a098045f",
+            "id": "4e11a370fabed108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.19.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.19"
+              "title": "Genesis 26.19"
             }
           },
           {
-            "id": "2539d6c179fe2064",
+            "id": "406cdbb9ae8a3341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.20.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.20"
+              "title": "Genesis 26.20"
             }
           },
           {
-            "id": "548127311d218966",
+            "id": "aca5dd8793881e92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.21.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.21"
+              "title": "Genesis 26.21"
             }
           },
           {
-            "id": "815ba27e451cdc14",
+            "id": "ccbb6abc7f9fcd64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.22.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.22"
+              "title": "Genesis 26.22"
             }
           },
           {
-            "id": "8e462ac2c4d3954f",
+            "id": "d7e194cb94facaac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.23.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.23"
+              "title": "Genesis 26.23"
             }
           },
           {
-            "id": "7da8f4a4333b6c4d",
+            "id": "0e9b5a5110439a41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 2/Genesis 2.24.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 2.24"
+              "title": "Genesis 26.24"
             }
           },
           {
-            "id": "e011fd0d228ae7c2",
+            "id": "91ddf9095bcdffef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.1.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.1"
+              "title": "Genesis 26.25"
             }
           },
           {
-            "id": "17d748db8eaed548",
+            "id": "4fd2f57ccbd7e25d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.2.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.2"
+              "title": "Genesis 26.26"
             }
           },
           {
-            "id": "17a07769152abadf",
+            "id": "fcec2e287f6873aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.3.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.3"
+              "title": "Genesis 26.27"
             }
           },
           {
-            "id": "8ab15ae3856b700a",
+            "id": "6025f7e2efddecd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.4.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.4"
+              "title": "Genesis 26.28"
             }
           },
           {
-            "id": "1c09b012da482fb5",
+            "id": "d31cf0f790325133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.5.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.5"
+              "title": "Genesis 26.29"
             }
           },
           {
-            "id": "10050eafebbde0d5",
+            "id": "e828c8792b402e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.6.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.6"
+              "title": "Genesis 26.30"
             }
           },
           {
-            "id": "d2c8fc0ccfb1f5b8",
+            "id": "74f945f9b2d064c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.7.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.7"
+              "title": "Genesis 26.31"
             }
           },
           {
-            "id": "6ccc093f1588aaea",
+            "id": "f847c7f86207da47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.8.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.8"
+              "title": "Genesis 26.32"
             }
           },
           {
-            "id": "30a1fc255a89fd94",
+            "id": "3daf8c05626cc29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.9.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.9"
+              "title": "Genesis 26.33"
             }
           },
           {
-            "id": "2bc244f480432c5a",
+            "id": "1d9f247dd4dd5ee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.10.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.34.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.10"
+              "title": "Genesis 26.34"
             }
           },
           {
-            "id": "13d910d8c1b1fabc",
+            "id": "b0653f4a357aa09a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.11.md",
+                "file": "Bible/01 - Genesis/Genesis 26/Genesis 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis 3.11"
-            }
-          },
-          {
-            "id": "e161b8dee4bb50bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.12"
-            }
-          },
-          {
-            "id": "ac4c513206cb8f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.13"
-            }
-          },
-          {
-            "id": "92836beed8c1f207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.14"
-            }
-          },
-          {
-            "id": "e358ab68370ae99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.15"
-            }
-          },
-          {
-            "id": "c59bf1ac6344a3be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.16"
-            }
-          },
-          {
-            "id": "05735b2691ef7b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.17"
-            }
-          },
-          {
-            "id": "a9aead12b57ed1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.18"
-            }
-          },
-          {
-            "id": "eada27be54e406f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.19"
-            }
-          },
-          {
-            "id": "0a478ad6bc3ee6ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.20"
-            }
-          },
-          {
-            "id": "b31b34615369221a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.21"
-            }
-          },
-          {
-            "id": "eb400dee6ad27c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.22"
-            }
-          },
-          {
-            "id": "e1ac47cd74d9c4e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 3/Genesis 3.23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 3.23"
-            }
-          },
-          {
-            "id": "2d80aed24679cec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/01 - Genesis/Genesis 1/Genesis 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis 1"
+              "title": "Genesis 26"
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -839,41 +657,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d80aed24679cec1",
+  "active": "b0653f4a357aa09a",
   "lastOpenFiles": [
-    "Bible/01 - Genesis/Genesis 2/Genesis 2.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.24.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.23.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.22.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.21.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.20.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.19.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.18.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.17.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.16.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.15.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.14.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.13.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.12.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.11.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.10.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.1.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.2.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.3.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.4.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.5.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.6.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.7.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.8.md",
-    "Bible/01 - Genesis/Genesis 3/Genesis 3.9.md",
-    "Bible/01 - Genesis/Genesis 3",
-    "Bible/01 - Genesis/Genesis 2",
-    "Bible/01 - Genesis/Genesis 1/Untitled",
-    "Untitled",
-    "Structure Thoughts",
-    "Bible/Untitled",
-    "Bible/Genesis",
-    "Bible"
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.35.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.34.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.33.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.32.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.31.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.30.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.29.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.28.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.27.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.26.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.25.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.24.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.23.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.22.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.21.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.20.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.19.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.18.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.17.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.16.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.15.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.14.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.13.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.12.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.11.md",
+    "Bible/01 - Genesis/Genesis 26/Genesis 26.10.md",
+    "Bible/01 - Genesis/Genesis 26",
+    "Bible/01 - Genesis/Genesis 25",
+    "Bible/01 - Genesis/Genesis 24/Untitled",
+    "Bible/01 - Genesis/Genesis 24",
+    "Bible/01 - Genesis/Genesis 23",
+    "Bible/01 - Genesis/Genesis 22",
+    "Bible/01 - Genesis/Genesis 21",
+    "Bible/01 - Genesis/Genesis 20",
+    "Bible/01 - Genesis/Genesis 19",
+    "Bible/01 - Genesis/Genesis 17"
   ]
 }
