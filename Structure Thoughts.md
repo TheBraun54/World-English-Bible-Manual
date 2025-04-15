@@ -16,6 +16,3 @@
 		- Pauline Epistles
 		- General Epistles
 		- Apocalyptic
-- Future Development
-	- Add Topographical Bible
-	- Lexicon
