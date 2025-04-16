@@ -1,3 +1,9 @@
+---
+tags:
+  - bible/chapter
+---
+[[Genesis 2|->]]
+
 ![[Genesis 1.1]]
 
 ![[Genesis 1.2]]
@@ -59,3 +65,5 @@
 ![[Genesis 1.30]]
 
 ![[Genesis 1.31]]
+
+[[Genesis 2|->]]

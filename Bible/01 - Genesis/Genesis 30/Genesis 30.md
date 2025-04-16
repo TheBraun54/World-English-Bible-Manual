@@ -72,7 +72,6 @@
 
 ![[Genesis 30.37]]
 
-![[Genesis 30.
 ![[Genesis 30.38]]
 
 ![[Genesis 30.39]]

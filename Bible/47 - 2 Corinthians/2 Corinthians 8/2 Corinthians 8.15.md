@@ -1,0 +1,5 @@
+---
+tags:
+  - bible/verse
+---
+As it is written, “He who gathered much had nothing left over, and he who gathered little had no lack.”
