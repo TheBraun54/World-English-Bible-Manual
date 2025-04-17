@@ -1,14 +1,9 @@
 ---
-book: Mark
-chapter: 15
-reference: Mark 15
-translation: WEB
-tags: [bible/chapter, bible/nt]
+tags:
+  - bible/chapter
 ---
 
 [[Mark 14|<-]] ✞ [[Mark 16|->]]
-
-# Mark 15
 
 ![[Mark 15.1]]
 
