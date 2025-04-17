@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 22|<-]] ✞ [[Genesis 24|->]]
+
 ![[Genesis 23.1]]
 
 ![[Genesis 23.2]]
@@ -37,3 +44,5 @@
 ![[Genesis 23.19]]
 
 ![[Genesis 23.20]]
+
+[[Genesis 22|<-]] ✞ [[Genesis 24|->]]

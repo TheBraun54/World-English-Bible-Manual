@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 16|<-]] ✞ [[Genesis 18|->]]
+
 ![[Genesis 17.1]]
 
 ![[Genesis 17.2]]
@@ -51,3 +58,5 @@
 ![[Genesis 17.26]]
 
 ![[Genesis 17.27]]
+
+[[Genesis 16|<-]] ✞ [[Genesis 18|->]]

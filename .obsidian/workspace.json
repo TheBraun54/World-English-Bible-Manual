@@ -4,1229 +4,1215 @@
     "type": "split",
     "children": [
       {
-        "id": "26569a23aaa4c131",
+        "id": "72ba032db0c54f07",
         "type": "tabs",
         "children": [
           {
-            "id": "ab8ae7b1d33f927f",
+            "id": "7f0de30a55492fa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10"
+              "title": "Genesis 31.1"
             }
           },
           {
-            "id": "d911059c22621655",
+            "id": "09dd8fbbb845d1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.1.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.1"
+              "title": "Genesis 31.2"
             }
           },
           {
-            "id": "21840e12ec1e84be",
+            "id": "27c04ae90349f782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.2.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.2"
+              "title": "Genesis 31.3"
             }
           },
           {
-            "id": "4b685bfd4cd99c2c",
+            "id": "a88e66d8b5641499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.3.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.3"
+              "title": "Genesis 31.4"
             }
           },
           {
-            "id": "08a4cdce94f4a888",
+            "id": "95c79fd749547830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.4.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.4"
+              "title": "Genesis 31.5"
             }
           },
           {
-            "id": "15b5b2d7ab485625",
+            "id": "fbb9caf175176fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.5.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.5"
+              "title": "Genesis 31.6"
             }
           },
           {
-            "id": "a47b1527abdba0c5",
+            "id": "cb26b667ee743ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.6.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.6"
+              "title": "Genesis 31.7"
             }
           },
           {
-            "id": "386204cc9dc23f11",
+            "id": "94f445926b523d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.7.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.7"
+              "title": "Genesis 31.8"
             }
           },
           {
-            "id": "7287b56130db785d",
+            "id": "444333272dfdca5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.8.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.8"
+              "title": "Genesis 31.9"
             }
           },
           {
-            "id": "df78c4cf91d34c6d",
+            "id": "34b7a865c7df6fe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.9.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.9"
+              "title": "Genesis 31.10"
             }
           },
           {
-            "id": "0721bc4d17ffd7b5",
+            "id": "11aa0789952d0c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.10.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.10"
+              "title": "Genesis 31.11"
             }
           },
           {
-            "id": "f316b4eb6d968d03",
+            "id": "d825dc7af3a7034a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.11.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.11"
+              "title": "Genesis 31.12"
             }
           },
           {
-            "id": "762da806459aac28",
+            "id": "6bf5bb8aab3671ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.12.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.12"
+              "title": "Genesis 31.13"
             }
           },
           {
-            "id": "f30e2d872f32afa2",
+            "id": "a3a27744432afcc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.13.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.13"
+              "title": "Genesis 31.14"
             }
           },
           {
-            "id": "9ab01e8ebe2dd334",
+            "id": "099d94bb3385d740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.14.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.14"
+              "title": "Genesis 31.15"
             }
           },
           {
-            "id": "0e14663391e0aca3",
+            "id": "4c10b758ec6ac4e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.15.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.15"
+              "title": "Genesis 31.16"
             }
           },
           {
-            "id": "0317ef3ceef80514",
+            "id": "1e3380f748803799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.16.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.16"
+              "title": "Genesis 31.17"
             }
           },
           {
-            "id": "97169ca4e1a10ff0",
+            "id": "7e59ff3a3bc6c861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.17.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 10.17"
+              "title": "Genesis 31.18"
             }
           },
           {
-            "id": "599424b68eb01b94",
+            "id": "c3deb450061f4803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11"
+              "title": "Genesis 31.19"
             }
           },
           {
-            "id": "5c29eb5ce08bbb30",
+            "id": "89c4e334871284c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.1.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.1"
+              "title": "Genesis 31.20"
             }
           },
           {
-            "id": "ca5d60a22304312f",
+            "id": "41eee33fa0bd580f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.2.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.2"
+              "title": "Genesis 31.21"
             }
           },
           {
-            "id": "3c12fbb00ee6d425",
+            "id": "6aec525579eb1393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.3.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.3"
+              "title": "Genesis 31.22"
             }
           },
           {
-            "id": "91e2d483d16c1a94",
+            "id": "db95cc720d815180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.4.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.4"
+              "title": "Genesis 31.23"
             }
           },
           {
-            "id": "29267d737b259441",
+            "id": "890211d4561b5662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.5.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.5"
+              "title": "Genesis 31.24"
             }
           },
           {
-            "id": "b6659fa0039deda0",
+            "id": "d55a2e6a7ca63c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.6.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.6"
+              "title": "Genesis 31.25"
             }
           },
           {
-            "id": "173863af69e7e546",
+            "id": "d18687587e80a104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.7.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.7"
+              "title": "Genesis 31.26"
             }
           },
           {
-            "id": "08084a211cb9da14",
+            "id": "94582152e18348d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.8.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.8"
+              "title": "Genesis 31.27"
             }
           },
           {
-            "id": "85fb2c9a4fa6db0c",
+            "id": "69a42cfa661e5ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.9.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.9"
+              "title": "Genesis 31.28"
             }
           },
           {
-            "id": "7b4cc8041fedb693",
+            "id": "12f8bd55b7a78402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.10.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.10"
+              "title": "Genesis 31.29"
             }
           },
           {
-            "id": "07e1ac972d60d0a1",
+            "id": "447b5b94d2d28836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.11.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.11"
+              "title": "Genesis 31.30"
             }
           },
           {
-            "id": "b9f587160dd13632",
+            "id": "e05e4055c192fb92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.12.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.12"
+              "title": "Genesis 31.31"
             }
           },
           {
-            "id": "cfbdc1d410b13f6b",
+            "id": "cc22a9fa75847283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.13.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.13"
+              "title": "Genesis 31.32"
             }
           },
           {
-            "id": "77774920aac47226",
+            "id": "669fffda7900ae3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.14.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.14"
+              "title": "Genesis 31.33"
             }
           },
           {
-            "id": "6d23d2b6265f5ffc",
+            "id": "b150a835d45f1170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.15.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.34.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.15"
+              "title": "Genesis 31.34"
             }
           },
           {
-            "id": "d449698a1ef14e84",
+            "id": "4507a0131f1c21f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.16.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.35.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.16"
+              "title": "Genesis 31.35"
             }
           },
           {
-            "id": "135198c9cb55477f",
+            "id": "5f10bca763e9173c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.17.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.36.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.17"
+              "title": "Genesis 31.36"
             }
           },
           {
-            "id": "9425a4a01f854b07",
+            "id": "2a8c92ea615d9d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.18.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.37.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.18"
+              "title": "Genesis 31.37"
             }
           },
           {
-            "id": "a548ae3b2cfa92ce",
+            "id": "9b2f4a942bc777b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.19.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.38.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.19"
+              "title": "Genesis 31.38"
             }
           },
           {
-            "id": "a41c1d6363c1e437",
+            "id": "3e4f1e553f758ab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.20.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.39.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.20"
+              "title": "Genesis 31.39"
             }
           },
           {
-            "id": "46a19dc407d4be71",
+            "id": "ce5eae83eed0e9e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.21.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.40.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.21"
+              "title": "Genesis 31.40"
             }
           },
           {
-            "id": "fcc10365332e1e42",
+            "id": "03ccb285f5bf516d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.22.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.41.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.22"
+              "title": "Genesis 31.41"
             }
           },
           {
-            "id": "a7f2b8ff43dbb73a",
+            "id": "fb6c886e3e90a1f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.23.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.42.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.23"
+              "title": "Genesis 31.42"
             }
           },
           {
-            "id": "4f86b36c60a6d9c6",
+            "id": "5a5e63d424c04ce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.24.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.43.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.24"
+              "title": "Genesis 31.43"
             }
           },
           {
-            "id": "ed454de656fa807e",
+            "id": "c3c41faac20b2fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.25.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.44.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.25"
+              "title": "Genesis 31.44"
             }
           },
           {
-            "id": "9b46b19035d3afae",
+            "id": "0f0d661d5c149857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.26.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.45.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.26"
+              "title": "Genesis 31.45"
             }
           },
           {
-            "id": "0a512bed9badb6a4",
+            "id": "d868074abf0a5873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.27.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.46.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.27"
+              "title": "Genesis 31.46"
             }
           },
           {
-            "id": "96b0413b48733ddf",
+            "id": "cf2a063be82388a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.28.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.47.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.28"
+              "title": "Genesis 31.47"
             }
           },
           {
-            "id": "5ee55ad7f5d0626c",
+            "id": "d63767cbd6afdea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.29.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.48.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.29"
+              "title": "Genesis 31.48"
             }
           },
           {
-            "id": "bd06af5262090c9c",
+            "id": "c78919dfbeecfb93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.30.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.49.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.30"
+              "title": "Genesis 31.49"
             }
           },
           {
-            "id": "33ef6c5cead8e70a",
+            "id": "2f66a7e16171cc65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.31.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.50.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.31"
+              "title": "Genesis 31.50"
             }
           },
           {
-            "id": "b8a363669cf20b64",
+            "id": "fffbef2cf32f3089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.32.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.51.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 11.32"
+              "title": "Genesis 31.51"
             }
           },
           {
-            "id": "5bd085ea28d1184b",
+            "id": "2078d8aef568478f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.52.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12"
+              "title": "Genesis 31.52"
             }
           },
           {
-            "id": "bacee237c73bb20b",
+            "id": "d7ea6738a33dcde7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.1.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.53.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.1"
+              "title": "Genesis 31.53"
             }
           },
           {
-            "id": "933b03770ce4b45c",
+            "id": "4549fb847263aea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.2.md",
+                "file": "Bible/01 - Genesis/Genesis 31/Genesis 31.54.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.2"
+              "title": "Genesis 31.54"
             }
           },
           {
-            "id": "550913b9026b0ab8",
+            "id": "48260a360101ac98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.3.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.3"
+              "title": "Genesis 32.1"
             }
           },
           {
-            "id": "6606f563547fdac8",
+            "id": "51fa37a84440a2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.4.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.4"
+              "title": "Genesis 32.2"
             }
           },
           {
-            "id": "745fcdb2ea142dd7",
+            "id": "d9d307144c6ed683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.5.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.5"
+              "title": "Genesis 32.3"
             }
           },
           {
-            "id": "6bd4679a7d0b48b9",
+            "id": "228d16b6bba0ce06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.6.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.6"
+              "title": "Genesis 32.4"
             }
           },
           {
-            "id": "9519f48702503405",
+            "id": "c97d84fcc4ed6019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.7.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.7"
+              "title": "Genesis 32.5"
             }
           },
           {
-            "id": "e199b4ba5e9ccd90",
+            "id": "0e9fd2fbe12c78ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.8.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.8"
+              "title": "Genesis 32.6"
             }
           },
           {
-            "id": "d020de15b3cc9497",
+            "id": "c0a352fbe573f078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.9.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.9"
+              "title": "Genesis 32.7"
             }
           },
           {
-            "id": "1786c626245f9a99",
+            "id": "d68c3a921c7c35a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.10.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.10"
+              "title": "Genesis 32.8"
             }
           },
           {
-            "id": "ba5e3de9bf159e49",
+            "id": "5ae628d1bc9bc807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.11.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.11"
+              "title": "Genesis 32.9"
             }
           },
           {
-            "id": "6187bd3346a14256",
+            "id": "b6aeaad9815b012b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.12.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.12"
+              "title": "Genesis 32.10"
             }
           },
           {
-            "id": "cddad1ff61750de3",
+            "id": "24a4ba27a1d5e586",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.13.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.13"
+              "title": "Genesis 32.11"
             }
           },
           {
-            "id": "567738e8d3d6e240",
+            "id": "a407a0830b7e5ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.14.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.14"
+              "title": "Genesis 32.12"
             }
           },
           {
-            "id": "4d265397c7391931",
+            "id": "83b9381883a9b832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.15.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.15"
+              "title": "Genesis 32.13"
             }
           },
           {
-            "id": "f99cd126ce791ddc",
+            "id": "eb722682e649e43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.16.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.16"
+              "title": "Genesis 32.14"
             }
           },
           {
-            "id": "320feed7e1591e0f",
+            "id": "10725d0e20f52f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.17.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.17"
+              "title": "Genesis 32.15"
             }
           },
           {
-            "id": "406321e1d95f5595",
+            "id": "8e96a8eadaae0056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.18.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.18"
+              "title": "Genesis 32.16"
             }
           },
           {
-            "id": "0cc8b7d89ced6d96",
+            "id": "89ac918651855fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.19.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.19"
+              "title": "Genesis 32.17"
             }
           },
           {
-            "id": "53359fcafd8cea61",
+            "id": "d3448dcce0518651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.20.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 12.20"
+              "title": "Genesis 32.18"
             }
           },
           {
-            "id": "5c970ee260a8e49b",
+            "id": "a94cc490eb86d8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13"
+              "title": "Genesis 32.19"
             }
           },
           {
-            "id": "8200a1473b437824",
+            "id": "12e5a92c2df2d704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.1.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.1"
+              "title": "Genesis 32.20"
             }
           },
           {
-            "id": "dd5520095016fcc2",
+            "id": "e5a876d2001c74ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.2.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.2"
+              "title": "Genesis 32.21"
             }
           },
           {
-            "id": "2204583e2b7235f0",
+            "id": "0109dbacbf720a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.3.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.3"
+              "title": "Genesis 32.22"
             }
           },
           {
-            "id": "a5526f39d77ae33a",
+            "id": "5332acfaad48a121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.4.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.4"
+              "title": "Genesis 32.23"
             }
           },
           {
-            "id": "9a0a217c6d9b69f7",
+            "id": "9375d7acaca10a69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.5.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.5"
+              "title": "Genesis 32.24"
             }
           },
           {
-            "id": "845cb78e3767fb65",
+            "id": "a2a21c87691ec7be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.6.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.6"
+              "title": "Genesis 32.25"
             }
           },
           {
-            "id": "c90e1b7e00985ccc",
+            "id": "9f395d056edf637c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.7.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.7"
+              "title": "Genesis 32.26"
             }
           },
           {
-            "id": "036d00071027f9d6",
+            "id": "2bb2c70a6d7994c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.8.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.8"
+              "title": "Genesis 32.27"
             }
           },
           {
-            "id": "94520af5b5a9e9d1",
+            "id": "a5b9253689b207bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.9.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.9"
+              "title": "Genesis 32.28"
             }
           },
           {
-            "id": "d90b7259391d21c7",
+            "id": "58ffc773a8ca5b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.10.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.10"
+              "title": "Genesis 32.29"
             }
           },
           {
-            "id": "ae7c2b5271a3c79e",
+            "id": "14680b2c065142dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.11.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.11"
+              "title": "Genesis 32.30"
             }
           },
           {
-            "id": "fcdf0f40e43c4a9f",
+            "id": "5f99d9205bfc3b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.12.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.12"
+              "title": "Genesis 32.31"
             }
           },
           {
-            "id": "b582f21f493ee8e6",
+            "id": "a498e09cd52a53b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.13.md",
+                "file": "Bible/01 - Genesis/Genesis 32/Genesis 32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 13.13"
-            }
-          },
-          {
-            "id": "22f941177f46fe1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 Corinthians 13"
+              "title": "Genesis 32"
             }
           }
         ],
-        "currentTab": 86
+        "currentTab": 85
       }
     ],
     "direction": "vertical"
@@ -1371,43 +1357,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22f941177f46fe1d",
+  "active": "a498e09cd52a53b1",
   "lastOpenFiles": [
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.11.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.13.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.14.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.12.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.10.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.9.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.8.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.7.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.6.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.5.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.4.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.3.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.2.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 13/2 Corinthians 13.1.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 10/2 Corinthians 10.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 11/2 Corinthians 11.md",
+    "Bible/01 - Genesis/Genesis 31/Genesis 31.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.32.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.31.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.30.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.29.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.28.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.27.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.26.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.25.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.24.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.23.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.22.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.21.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.20.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.19.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.18.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.17.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.16.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.15.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.14.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.13.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.12.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.11.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.10.md",
+    "Bible/01 - Genesis/Genesis 32/Genesis 32.9.md",
+    "Bible/01 - Genesis/Genesis 32",
+    "Bible/01 - Genesis/Genesis 31",
     "Bible/47 - 2 Corinthians/2 Corinthians 13",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.21.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.20.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.19.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.18.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.17.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.16.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.15.md",
-    "Bible/47 - 2 Corinthians/2 Corinthians 12/2 Corinthians 12.14.md",
     "Bible/47 - 2 Corinthians/2 Corinthians 12",
     "Bible/47 - 2 Corinthians/2 Corinthians 11",
     "Bible/47 - 2 Corinthians/2 Corinthians 10/Untitled",
     "Bible/47 - 2 Corinthians/2 Corinthians 10",
     "Bible/47 - 2 Corinthians/2 Corinthians 9",
     "Bible/47 - 2 Corinthians/2 Corinthians 8",
-    "Bible/47 - 2 Corinthians/2 Corinthians 7",
-    "Bible/47 - 2 Corinthians/2 Corinthians 6",
-    "Bible/47 - 2 Corinthians/2 Corinthians 4"
+    "Bible/47 - 2 Corinthians/2 Corinthians 7"
   ]
 }

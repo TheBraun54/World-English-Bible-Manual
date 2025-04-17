@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 8|<-]] ✞ [[Genesis 10|->]]
+
 ![[Genesis 9.1]]
 
 ![[Genesis 9.2]]
@@ -55,3 +62,5 @@
 ![[Genesis 9.27]]
 
 ![[Genesis 9.28]]
+
+[[Genesis 8|<-]] ✞ [[Genesis 10|->]]

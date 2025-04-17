@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[2 Corinthians 3|<-]] ✞ [[2 Corinthians 5|->]]
 
 ![[2 Corinthians 4.1]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 6|<-]] ✞ [[Genesis 8|->]]
+
 ![[Genesis 7.1]]
 
 ![[Genesis 7.2]]
@@ -45,3 +52,5 @@
 ![[Genesis 7.23]]
 
 ![[Genesis 7.24]]
+
+[[Genesis 6|<-]] ✞ [[Genesis 8|->]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 Isaac spoke to Abraham his father, and said, “My father?”
 
 He said, “Here I am, my son.”

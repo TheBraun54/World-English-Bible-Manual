@@ -1,3 +1,6 @@
+
+[[Genesis 14|<-]] ✞ [[Genesis 16|->]]
+
 ![[Genesis 15.1]]
 
 ![[Genesis 15.2]]
@@ -39,3 +42,5 @@
 ![[Genesis 15.20]]
 
 ![[Genesis 15.21]]
+
+[[Genesis 14|<-]] ✞ [[Genesis 16|->]]

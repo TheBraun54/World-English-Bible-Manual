@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 17|<-]] ✞ [[Genesis 19|->]]
+
 ![[Genesis 18.1]]
 
 ![[Genesis 18.2]]
@@ -63,3 +70,5 @@
 ![[Genesis 18.32]]
 
 ![[Genesis 18.33]]
+
+[[Genesis 17|<-]] ✞ [[Genesis 19|->]]

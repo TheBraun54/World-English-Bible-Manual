@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 Yahweh God said to the serpent,
 
 “Because you have done this,  

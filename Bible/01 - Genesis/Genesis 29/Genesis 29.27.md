@@ -1,1 +1,5 @@
+---
+tags:
+  - bible/verse
+---
 Fulfill the week of this one, and we will give you the other also for the service which you will serve with me for seven more years.”

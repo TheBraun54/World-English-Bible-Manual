@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 He said,
 
 “Canaan is cursed.  

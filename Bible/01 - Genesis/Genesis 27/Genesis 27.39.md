@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 Isaac his father answered him,
 
 “Behold, your dwelling will be of the fatness of the earth,  

@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 5|<-]] ✞ [[Genesis 7|->]]
+
 ![[Genesis 6.1]]
 
 ![[Genesis 6.2]]
@@ -42,3 +49,4 @@
 
 ![[Genesis 6.22]]
 
+[[Genesis 5|<-]] ✞ [[Genesis 7|->]]

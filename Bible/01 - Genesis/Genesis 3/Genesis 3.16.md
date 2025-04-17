@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 To the woman he said,
 
 “I will greatly multiply your pain in childbirth.  

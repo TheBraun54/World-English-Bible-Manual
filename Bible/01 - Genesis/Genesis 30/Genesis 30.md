@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 29|<-]] ✞ [[Genesis 31|->]]
+
 ![[Genesis 30.1]]
 
 ![[Genesis 30.2]]
@@ -83,3 +90,5 @@
 ![[Genesis 30.42]]
 
 ![[Genesis 30.43]]
+
+[[Genesis 29|<-]] ✞ [[Genesis 31|->]]

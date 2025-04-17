@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 Yahweh said to her,
 
 “Two nations are in your womb.  

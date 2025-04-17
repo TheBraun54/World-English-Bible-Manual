@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[Psalm 21|<-]] ✞​ [[Psalm 23|->]]
 
 ![[Psalm 22.1]]

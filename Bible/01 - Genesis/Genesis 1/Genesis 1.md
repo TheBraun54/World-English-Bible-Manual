@@ -2,7 +2,7 @@
 tags:
   - bible/chapter
 ---
-[[Genesis 2|->]]
+✞ [[Genesis 2|->]]
 
 ![[Genesis 1.1]]
 
@@ -66,4 +66,4 @@ tags:
 
 ![[Genesis 1.31]]
 
-[[Genesis 2|->]]
+✞ [[Genesis 2|->]]

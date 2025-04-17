@@ -1,6 +1,7 @@
 ---
 tags: bible/chapter
 ---
+
 [[2 Corinthians 5|<-]] ✞ [[2 Corinthians 7|->]]
 
 ![[2 Corinthians 6.1]]

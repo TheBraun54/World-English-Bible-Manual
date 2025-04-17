@@ -1,1 +1,5 @@
+---
+tags:
+  - bible/verse
+---
 but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”

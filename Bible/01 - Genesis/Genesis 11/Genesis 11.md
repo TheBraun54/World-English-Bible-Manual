@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 10|<-]] ✞ [[Genesis 12|->]]
+
 ![[Genesis 11.1]]
 
 ![[Genesis 11.2]]
@@ -61,3 +68,5 @@
 ![[Genesis 11.31]]
 
 ![[Genesis 11.32]]
+
+[[Genesis 10|<-]] ✞ [[Genesis 12|->]]

@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[2 Corinthians 11|<-]] ✞ [[2 Corinthians 13|->]]
 
 ![[2 Corinthians 12.1]]

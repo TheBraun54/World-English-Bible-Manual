@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 13|<-]] ✞ [[Genesis 15|->]]
+
 ![[Genesis 14.1]]
 
 ![[Genesis 14.2]]
@@ -45,3 +52,5 @@
 ![[Genesis 14.23]]
 
 ![[Genesis 14.24]]
+
+[[Genesis 13|<-]] ✞ [[Genesis 15|->]]

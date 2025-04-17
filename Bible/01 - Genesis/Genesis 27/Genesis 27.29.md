@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 Let peoples serve you,  
     and nations bow down to you.  
 Be lord over your brothers.  

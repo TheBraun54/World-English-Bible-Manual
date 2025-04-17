@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[2 Corinthians 9|<-]] ✞ [[2 Corinthians 11|->]]
 
 ![[2 Corinthians 10.1]]

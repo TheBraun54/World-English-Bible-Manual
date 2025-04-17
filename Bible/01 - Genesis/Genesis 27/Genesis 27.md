@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 26|<-]] ✞ [[Genesis 28|->]]
+
 ![[Genesis 27.1]]
 
 ![[Genesis 27.2]]
@@ -89,3 +96,5 @@
 ![[Genesis 27.45]]
 
 ![[Genesis 27.46]]
+
+[[Genesis 26|<-]] ✞ [[Genesis 28|->]]

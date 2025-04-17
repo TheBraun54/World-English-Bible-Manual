@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 Lamech said to his wives,
 
 “Adah and Zillah, hear my voice.  

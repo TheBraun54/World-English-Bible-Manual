@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[Mathew 26|<-]] ✞​ [[Matthew 28|->]]
 
 ![[Matthew 27.1]]

@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[2 Corinthians 6|<-]] ✞ [[2 Corinthians 8|->]]
 
 ![[2 Corinthians 7.1]]

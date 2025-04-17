@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 15|<-]] ✞ [[Genesis 17|->]]
+
 ![[Genesis 16.1]]
 
 ![[Genesis 16.2]]
@@ -29,3 +36,5 @@
 ![[Genesis 16.15]]
 
 ![[Genesis 16.16]]
+
+[[Genesis 15|<-]] ✞ [[Genesis 17|->]]

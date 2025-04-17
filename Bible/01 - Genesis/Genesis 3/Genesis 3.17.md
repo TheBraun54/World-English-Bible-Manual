@@ -1,3 +1,7 @@
+---
+tags:
+  - bible/verse
+---
 To Adam he said,
 
 “Because you have listened to your wife’s voice,  

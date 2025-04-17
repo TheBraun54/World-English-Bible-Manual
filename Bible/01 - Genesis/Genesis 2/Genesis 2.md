@@ -1,3 +1,9 @@
+---
+tags:
+  - bible/chapter
+---
+[[Genesis 1|<-]] ✞ [[Genesis 3|->]]
+
 ![[Genesis 2.1]]
 
 ![[Genesis 2.2]]
@@ -47,3 +53,5 @@
 ![[Genesis 2.24]]
 
 ![[Genesis 2.25]]
+
+[[Genesis 1|<-]] ✞ [[Genesis 3|->]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 20|<-]] ✞ [[Genesis 22|->]]
+
 ![[Genesis 21.1]]
 
 ![[Genesis 21.2]]
@@ -64,5 +71,7 @@
 ![[Genesis 21.33]]
 
 ![[Genesis 21.34]]
+
+[[Genesis 20|<-]] ✞ [[Genesis 22|->]]
 
 

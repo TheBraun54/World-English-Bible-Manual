@@ -1,1 +1,5 @@
+---
+tags:
+  - bible/verse
+---
 Ishmael, his son, was thirteen years old when he was circumcised in the flesh of his foreskin.

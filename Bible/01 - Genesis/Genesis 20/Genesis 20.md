@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 19|<-]] ✞ [[Genesis 21|->]]
+
 ![[Genesis 20.1]]
 
 ![[Genesis 20.2]]
@@ -33,3 +40,5 @@
 ![[Genesis 20.17]]
 
 ![[Genesis 20.18]]
+
+[[Genesis 19|<-]] ✞ [[Genesis 21|->]]

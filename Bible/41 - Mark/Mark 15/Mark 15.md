@@ -2,6 +2,7 @@
 tags:
   - bible/chapter
 ---
+
 [[Mark 14|<-]] ✞ [[Mark 16|->]]
 
 ![[Mark 15.1]]

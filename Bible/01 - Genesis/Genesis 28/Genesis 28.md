@@ -1,3 +1,10 @@
+---
+tags:
+  - bible/chapter
+---
+
+[[Genesis 27|<-]] ✞ [[Genesis 29|->]]
+
 ![[Genesis 28.1]]
 
 ![[Genesis 28.2]]
@@ -41,3 +48,5 @@
 ![[Genesis 28.21]]
 
 ![[Genesis 28.22]]
+
+[[Genesis 27|<-]] ✞ [[Genesis 29|->]]
